@@ -16,6 +16,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", "{B7A47C4C-F896-4F81-A855-AE62E2E7A9B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{9D9DBA8E-8985-476C-A305-7842B4B59FBB}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eventos.IO.Domain.Core", "src\Eventos.IO.Domain.Core\Eventos.IO.Domain.Core.csproj", "{7ECD77D2-24B9-4EF7-923F-55D6E11472DE}"
 EndProject
