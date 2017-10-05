@@ -28,7 +28,7 @@ namespace Eventos.IO.Application.AutoMapper
 
             CreateMap<EventoViewModel, ExcluirEventoCommand>()
                 .ConstructUsing(c => new ExcluirEventoCommand(c.Id));
-
+            //
         }
     
     }
